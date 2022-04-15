@@ -49,7 +49,7 @@ Uno de los puntos fuertes de GraphQL y que mas me llamaron la atencion fue lo si
 }
 ```
 
-![Image text]()
+![Image text](https://github.com/chewydc/Demo-GraphQL/blob/f5b50acce5976743f65a4bcd9f9719f54ab0c7d4/QueryRecursivo_ejemplo.JPG)
 
 
 
