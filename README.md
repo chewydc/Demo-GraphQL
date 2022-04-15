@@ -24,7 +24,7 @@ $ npm start
 ## Ejemplo de uso
 
 ```
-$  curl 'http://localhost:3000/'
+$  http://localhost:3000/
 ```
 
 ### Query de ejemplo, recursividad:
