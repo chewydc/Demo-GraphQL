@@ -1,6 +1,6 @@
-import { authors } from "../data/authors";
-import { books } from "../data/books";
-import { reviews } from "../data/reviews";
+import { authors } from "../data/authors.js";
+import { books } from "../data/books.js";
+import { reviews } from "../data/reviews.js";
 
 export const resolvers = {
   Query: {
